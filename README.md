@@ -1,7 +1,7 @@
 # Cliffjumper
 Neural Search.
 
-`tatoeba.en-zh`: From https://rak.box.com/s/7d0ntwrtf4y7rhwsazhw5gww7784uwf0
+`tatoeba.en-zh`: From  https://drive.google.com/open?id=1AIUAbU-GkPFN0nahRHaK8nV7gtLk68fG
 
 Indexing
 ====
