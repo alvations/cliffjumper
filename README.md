@@ -3,6 +3,9 @@ Neural Search.
 
 `tatoeba.en-zh`: From  https://drive.google.com/open?id=1AIUAbU-GkPFN0nahRHaK8nV7gtLk68fG
 
+
+<math xmlns="http://www.w3.org/1998/Math/MathML"><mfrac><mrow><mi>d</mi><mo>(</mo><mi>f</mi><mo>(</mo><mi>x</mi><mo>)</mo><mo>)</mo></mrow><mrow><mi>d</mi><mi>x</mi></mrow></mfrac></math>
+
 Indexing
 ====
 
